@@ -68,31 +68,11 @@ Hi, I’m **Abhinash**, a **full-stack developer** 👨‍💻 from **Bengaluru,
 
 ---
 
-### 📈 My GitHub Stats
-
-![Abhinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AKB2004&count_private=true&show_icons=true&theme=radical)
-
----
-
-### 📊 GitHub Activity
-
-| 🏆 Streak | 🔤 Languages | 📌 Top Languages |
-|----------|--------------|------------------|
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AKB2004&theme=radical) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKB2004&layout=compact&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKB2004&langs_count=10&theme=radical) |
-
----
-
 ### 🎯 2025 Goals
 
 - ✅ Master **TypeScript** and **Advanced React**
 - ✅ Contribute to more **open-source projects**
 - ✅ Elevate my **web dev and UI/UX** game
-
----
-
-### 🔧 GitHub Actions (if applicable)
-
-[![Build Status](https://img.shields.io/github/actions/workflow/status/AKB2004/RepoName/ci.yml?branch=main&logo=github)](https://github.com/AKB2004/RepoName/actions)
 
 ---
 
