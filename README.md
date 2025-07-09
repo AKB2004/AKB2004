@@ -1,6 +1,6 @@
 # 🌟 Abhinash Kumar Bej 🚀 | Full Stack Developer
 
-Hi, I’m **Abhinash**, a **full-stack developer** 👨‍💻 from **Bengaluru, India**. I specialize in **Web Development, UI/UX Design**, and **building scalable applications**. Currently working on **[Milan.ai](https://github.com/AKB2004)** and **[SecuResidences](https://securesidences.com)** — bringing innovative and user-centric solutions to life.
+Hi, I’m **Abhinash**, a **full-stack developer** 👨‍💻 from **Bengaluru, India**. I specialize in **Web Development, UI/UX Design**, and **building scalable applications**. Currently working on a **[SecuResidences](https://securesidences.com)** — bringing innovative and user-centric solutions to life.
 
 ---
 
@@ -57,7 +57,6 @@ Hi, I’m **Abhinash**, a **full-stack developer** 👨‍💻 from **Bengaluru,
 
 - 🔗 [**VaLiDiFy**](https://github.com/AKB2004/VaLiDiFy) – A blockchain-based certificate validation system.
 - 🔗 [**SecuResidences**](https://securesidences.com) – Smart hostel management app with web & mobile support.
-- 🔗 [**Milan.ai**](https://github.com/AKB2004) – AI-powered next-gen dating app.
 
 ---
 
