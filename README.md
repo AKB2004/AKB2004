@@ -50,27 +50,14 @@ Hi, I’m **Abhinash**, a **full-stack developer** 👨‍💻 from **Bengaluru,
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bejabhinash@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AKB2004)
 
----
-
-### 💥 Featured Projects
-
-- 🔗 [**VaLiDiFy**](https://github.com/AKB2004/VaLiDiFy) – A blockchain-based certificate validation system.
-- 🔗 [**SecuResidences**](https://securesidences.com) – Smart hostel management app with web & mobile support.
 
 ---
 
-### 🏆 Certifications
+### 🎯 2026 Goals
 
-- 🎓 Web Development – Acmegrade, IIT Bombay  
-- 🌐 Google Summer of Code Participant – #GSoC *Unleash the Code*
-
----
-
-### 🎯 2025 Goals
-
-- ✅ Master **TypeScript** and **Advanced React**
+- ✅ Master **TypeScript**
 - ✅ Contribute to more **open-source projects**
-- ✅ Elevate my **web dev and UI/UX** game
+- ✅ Elevate my **mobile dev and UI/UX** game
 
 ---
 
