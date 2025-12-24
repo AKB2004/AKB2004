@@ -1,7 +1,6 @@
 # 🌟 Abhinash Kumar Bej 🚀 | Full Stack Developer
 
-Hi, I’m **Abhinash**, a **full-stack developer** 👨‍💻 from **Bengaluru, India**. I specialize in **Web Development, UI/UX Design**, and **building scalable applications**. Currently working on a **[SecuResidences](https://securesidences.com)** — bringing innovative and user-centric solutions to life.
-
+Hi, I’m **Abhinash**, a **full-stack developer** 👨‍💻 from **Bengaluru, India**. I specialize in **Web Development, UI/UX Design**, and **building scalable applications**.
 ---
 
 ### 🚀 What I Do
