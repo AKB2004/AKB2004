@@ -1,0 +1,31 @@
+<svg width="100%" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="160" fill="url(#bg)"/>
+
+  <text x="60" y="70"
+        font-size="36"
+        font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif"
+        fill="#e5e7eb"
+        font-weight="600">
+    Abhinash Kumar Bej
+  </text>
+
+  <text x="60" y="105"
+        font-size="16"
+        font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif"
+        fill="#94a3b8">
+    Full Stack Developer · Frontend · Backend · Cloud
+  </text>
+
+  <rect x="60" y="120" width="240" height="3" rx="2" fill="url(#accent)"/>
+</svg>
