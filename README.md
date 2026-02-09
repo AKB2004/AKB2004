@@ -1,9 +1,5 @@
 ![](./header.svg)
 
-# 🔷 Abhinash Kumar Bej
-
-**Frontend • Backend • Cloud (AWS)**
-
 > `Full Stack Developer — I build reliable backends and thoughtful UIs. I prefer code that’s understandable, testable, and deployable.`
 
 ---
